@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-8-12, 11:16:08
+    Author     : Louis
+*/
+ul, li{
+    list-style: none;
+}
+body{
+    font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei UI","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+}
+
+.bg-none{
+    background: none;
+}
+.bg-801dae{
+    background: #801dae;
+}
+.bg-21a675{
+    background: #21a675;
+}
+.bg-dc3023{
+    background: #dc3023;
+}
+
+.border-red{
+    border: 1px solid red;
+}
+
+.font-white{
+     color: white; 
+}
+
